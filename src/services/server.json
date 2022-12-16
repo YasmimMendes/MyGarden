@@ -1,0 +1,169 @@
+{
+  "plants_water_frequencies": [
+    {"key": "day", "title": "Todos os dias"},
+    {"key": "week", "title": "A cada semana"}
+  ],
+
+  "plants": [
+    {
+      "id": 1,
+      "name": "Aningapara",
+      "about": "É uma espécie tropical que tem crescimento rápido e fácil manuseio.",
+      "water_tips": "Regue duas vezes por semana.",
+      "frequency": {
+        "times": 2,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Zamioculca",
+      "about": "Permanece o ano todo bonita e verdinha.",
+      "water_tips": "Regue uma vez por dia.",
+      "frequency": {
+        "times": 1,
+        "repeat_every": "day"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Peperomia",
+      "about": "Adapta-se tanto ao sol e sombra, mas, prefere um ambiente fresquinho.",
+      "water_tips": "Regue três vezes por semana.",
+      "frequency": {
+        "times": 3,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Imbé",
+      "about": "Se adapta a diversas regiões, além de ser bem fácil de cultivar.",
+      "water_tips": "Regue duas vezes por semana.",
+      "frequency": {
+        "times": 2,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Espada-de-São-Jorge",
+      "about": "O aroma reduz os níveis de ansiedade e ajuda na qualidade do sono.",
+      "water_tips": "Regue uma vez por dia.",
+      "frequency": {
+        "times": 1,
+        "repeat_every": "day"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Yucca",
+      "about": "São fáceis de manter e cuidar.",
+      "water_tips": "Regue uma vez por semana.",
+      "frequency": {
+        "times": 1,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Frutíferas",
+      "about": "Exigem algumas horinhas de sol por dia, por isso deixe próximo a janelas.",
+      "water_tips": "Regue três vezes por semana.",
+      "frequency": {
+        "times": 3,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Orquídea",
+      "about": "Traz sensação de tranquilidade e paz ao ambiente.",
+      "water_tips": "Regue quatro vezes por semana.",
+      "frequency": {
+        "times": 4,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Violeta",
+      "about": "São ótimas sugestões para decorar ambientes.",
+      "water_tips": "Regue duas vezes por semana.",
+      "frequency": {
+        "times": 2,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Hortênsia",
+      "about": "Planta rústica que se adapta a diferentes tipos de solos.",
+      "water_tips": "Regue uma vez por semana.",
+      "frequency": {
+        "times": 1,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Roseira",
+      "about": "É uma das plantas mais populares em todo o mundo, que chama a atenção por sua beleza e coloração exuberante.",
+      "water_tips": "Regue duas vezes por semana.",
+      "frequency": {
+        "times": 2,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ipê-amarelo",
+      "about": "É a árvore mais conhecida e cultivada no Brasil.",
+      "water_tips": "Regue uma vez por semana.",
+      "frequency": {
+        "times": 1,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Figueira",
+      "about": "É uma árvore resistente e milenar que dá origem ao figo, um fruto saboroso e nutritivo.",
+      "water_tips": "Regue três vezes por semana.",
+      "frequency": {
+        "times": 3,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Yohimbe",
+      "about": "É uma árvore sempre verde nativa da África Ocidental, conhecida pelas suas propriedades afrodisíacas.",
+      "water_tips": "Regue uma vez por semana.",
+      "frequency": {
+        "times": 1,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Acácia-branca",
+      "about": "É uma árvore de pequeno a médio porte, decídua e florífera.",
+      "water_tips": "Regue duas vezes por semana.",
+      "frequency": {
+        "times": 2,
+        "repeat_every": "week"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Jabuticabeira",
+      "about": "É uma planta elegante de folhas pequenas e atinge seu “auge” como planta ornamental durante a floração e frutificação.",
+      "water_tips": "Regue três vezes por semana.",
+      "frequency": {
+        "times": 3,
+        "repeat_every": "week"
+      }
+    }
+  ]
+}
